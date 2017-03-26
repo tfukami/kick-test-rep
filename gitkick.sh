@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# git remote add origin https://github.com/tfukami/kick-test-rep.git
+# git push -u origin master
+
 # check dir
 GITDIR=kick-test-rep
 if [ -e $GITDIR ]; then
