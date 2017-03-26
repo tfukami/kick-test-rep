@@ -1,0 +1,1 @@
+# kick-git from shell
